@@ -1,1 +1,8 @@
 theme: jekyll-theme-tactile
+jekyll_admin:
+  hidden_links:
+    - posts
+    - pages
+    - staticfiles
+    - datafiles
+    - configuration
